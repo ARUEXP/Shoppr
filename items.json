@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Samsung Galaxy S22",
+        "image": "s22.jpg",
+        "price": 15.99,
+        "type": "mobile",
+        "buyLink": "https://example.com/toycar"
+    },
+    {
+        "name": "IPhone 14 Pro Max",
+        "image": "14 pm.jpg",
+        "price": 24.99,
+        "type": "mobile",
+        "buyLink": "https://example.com/stuffedanimal"
+    },
+    {
+        "name": "Samsung Galaxy S22",
+        "image": "s22.jpg",
+        "price": 15.99,
+        "type": "mobile",
+        "buyLink": "https://example.com/toycar"
+    },
+    {
+        "name": "IPhone 14 Pro Max",
+        "image": "14 pm.jpg",
+        "price": 24.99,
+        "type": "mobile",
+        "buyLink": "https://example.com/stuffedanimal"
+    },
+    {
+        "name": "Samsung Galaxy S22",
+        "image": "s22.jpg",
+        "price": 15.99,
+        "type": "mobile",
+        "buyLink": "https://example.com/toycar"
+    },
+    {
+        "name": "IPhone 14 Pro Max",
+        "image": "14 pm.jpg",
+        "price": 24.99,
+        "type": "mobile",
+        "buyLink": "https://example.com/stuffedanimal"
+    },
+    {
+        "name": "Samsung Galaxy S22",
+        "image": "s22.jpg",
+        "price": 15.99,
+        "type": "mobile",
+        "buyLink": "https://example.com/toycar"
+    },
+    {
+        "name": "IPhone 14 Pro Max",
+        "image": "14 pm.jpg",
+        "price": 24.99,
+        "type": "mobile",
+        "buyLink": "https://example.com/stuffedanimal"
+    },
+    {
+        "name": "Samsung Galaxy S22",
+        "image": "s22.jpg",
+        "price": 15.99,
+        "type": "mobile",
+        "buyLink": "https://example.com/toycar"
+    },
+    {
+        "name": "IPhone 14 Pro Max",
+        "image": "14 pm.jpg",
+        "price": 24.99,
+        "type": "mobile",
+        "buyLink": "https://example.com/stuffedanimal"
+    }
+]
